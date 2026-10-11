@@ -1,0 +1,90 @@
+[
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "author": 2,
+    "title": "Blog 1",
+    "text": "Text description for blog 1.",
+    "created_date": "2025-09-20T14:16:20Z",
+    "published_date": "2025-09-20T14:22:17Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "author": 2,
+    "title": "Blog 2",
+    "text": "Text description for blog 2.",
+    "created_date": "2025-09-20T14:22:20Z",
+    "published_date": "2025-09-20T14:25:44Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "author": 2,
+    "title": "Blog 3",
+    "text": "Text description for blog 3.",
+    "created_date": "2025-09-20T14:22:52Z",
+    "published_date": "2025-09-20T14:30:00Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "author": 1,
+    "title": "Sample Title",
+    "text": "Test text in this blog.",
+    "created_date": "2026-10-06T11:49:19.315Z",
+    "published_date": null
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "author": 2,
+    "title": "Sample Title",
+    "text": "Test text in this blog.",
+    "created_date": "2026-10-06T11:50:00.224Z",
+    "published_date": null
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "author": 1,
+    "title": "Sample Title 2",
+    "text": "Test text in this blog. This is the second post created in the django interactive console via the integrated terminal in VS Code",
+    "created_date": "2026-10-06T11:55:06.724Z",
+    "published_date": "2026-10-06T12:21:01.074Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "author": 1,
+    "title": "Sample Title 3",
+    "text": "This is the third post created in the django interactive console via the integrated terminal in VS Code",
+    "created_date": "2026-10-06T11:56:28.158Z",
+    "published_date": "2026-10-06T12:34:12.998Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "author": 2,
+    "title": "My 4th Blog",
+    "text": "This is the description of my 4th blog. I have created this blog from the Django Administration interface. I have opened and run the server locally from VS Code using 'python manage.py runserver'. Then I went into the admin interface and created this post.",
+    "created_date": "2026-10-06T15:12:07Z",
+    "published_date": "2026-10-06T15:14:12Z"
+  }
+}
+]
